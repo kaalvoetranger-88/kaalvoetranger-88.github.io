@@ -1,0 +1,567 @@
+[
+  {
+    "word": "Accuracy",
+    "details": "Accuracy is a measure of how often a predictive model correctly predicts the outcome. In a two-class problem, it is defined as the ratio of the number of times a machine learning model correctly recognizes events of the two classes with respect to all events in the dataset." 
+  },  
+  {
+    "word": "Alternative Hypothesis",
+    "details": "The alternative hypothesis proposes that there is an effect or a difference, contrary to the null hypothesis. In business, it's often used in A/B testing to evaluate whether a new strategy or product variant performs better than the current one."
+  },
+  {
+    "word": "ANOVA",
+    "details": "Analysis of variance (ANOVA) is a statistical method used to determine if there are significant differences between group means. Businesses use ANOVA to compare performance across different marketing channels or customer segments."
+  },
+  {
+    "word": "Bayes’ Theorem",
+    "details": "Bayes' Theorem calculates the probability of an event based on prior knowledge. It's used in business for fraud detection, spam filtering, and dynamic risk assessment."
+  },
+  {
+    "word": "Central Limit Theorem",
+    "details": "This theorem states that sample means tend to form a normal distribution as the sample size increases. It supports making reliable inferences from customer surveys or product reviews."
+  },
+  {
+    "word": "Chi-square Test",
+    "details": "The chi-square test compares observed and expected frequencies in categorical data. Businesses apply it to test customer preference distributions or website navigation behavior."
+  },
+  {
+    "word": "Confidence Interval",
+    "details": "A confidence interval estimates the range within which a population parameter lies. It's used in business forecasting and market research to quantify uncertainty."
+  },
+  {
+    "word": "Correlation",
+    "details": "Correlation measures the relationship between two variables. Businesses use it to explore how factors like advertising spend and sales revenue move together."
+  },
+  {
+    "word": "Covariance",
+    "details": "Covariance indicates how two variables change together. In finance, it helps in portfolio risk analysis by examining how asset prices move in relation."
+  },
+  {
+    "word": "Kurtosis",
+    "details": "Kurtosis indicates whether data have heavy tails or outliers. It's useful in finance or quality control to detect unusual variations or risks."
+  },
+  {
+    "word": "Linear Regression",
+    "details": "Linear regression models the relationship between variables. Businesses use it to predict sales based on pricing, seasonality, or advertising."
+  },
+  {
+    "word": "Logistic Regression",
+    "details": "Logistic regression models the probability of a binary outcome. It's commonly used in customer churn prediction or lead conversion analysis."
+  },
+  {
+    "word": "Mean",
+    "details": "The mean is the average of a set of values. In business, it's used for performance metrics like average revenue per user or order value."
+  },
+  {
+    "word": "Median",
+    "details": "The median is the middle value of a dataset. Businesses use it to understand central tendency in skewed distributions, such as income or purchase values."
+  },
+  {
+    "word": "Mode",
+    "details": "The mode is the most frequently occurring value in a dataset. It's used to find popular product sizes, customer ages, or payment types."
+  },
+  {
+    "word": "Null Hypothesis",
+    "details": "The null hypothesis assumes no effect or difference. Businesses use it in A/B testing to validate whether a change in strategy has a real impact."
+  },
+  {
+    "word": "Outlier",
+    "details": "An outlier is a data point that is significantly different from others. In business, outliers may indicate fraud, data entry errors, or exceptional customer activity."
+  },
+  {
+    "word": "Overfitting",
+    "details": "Overfitting occurs when a model performs well on training data but poorly on new data. It’s a key concern in building predictive models for sales, credit risk, or recommendation systems."
+  },
+  {
+    "word": "P-value",
+    "details": "The p-value helps determine statistical significance. It's widely used in A/B testing and marketing analytics to confirm whether observed results are likely due to chance."
+  },
+  {
+    "word": "Population",
+    "details": "A population includes all items or individuals of interest. In business, this could be all customers, transactions, or website visits under study."
+  },
+  {
+    "word": "Probability",
+    "details": "Probability quantifies how likely an event is to occur. It underpins decision-making in insurance, finance, and logistics forecasting."
+  },
+  {
+    "word": "R-squared",
+    "details": "R-squared measures how well a model explains variability in the data. In business, it's used to evaluate forecasting models for revenue or performance KPIs."
+  },
+  {
+    "word": "Regression",
+    "details": "Regression is used to model and analyze relationships between variables. It supports demand forecasting, pricing strategy, and operational efficiency."
+  },
+  {
+    "word": "Sample",
+    "details": "A sample is a subset of a population used for analysis. Businesses rely on sampling in surveys, market research, and testing new product features."
+  },
+  {
+    "word": "Skewness",
+    "details": "Skewness measures the asymmetry of data distribution. In business reporting, it helps detect abnormalities in sales trends or financial performance."
+  },
+  {
+    "word": "Standard Deviation",
+    "details": "Standard deviation measures how spread out data values are. It's used to evaluate volatility in financial returns or consistency in customer service times."
+  },
+  {
+    "word": "T-test",
+    "details": "A t-test compares the means of two groups. It's used in business to assess campaign performance, employee training effectiveness, or pricing changes."
+  },
+  {
+    "word": "Underfitting",
+    "details": "Underfitting occurs when a model is too simple to capture data patterns. It's a common pitfall when building early-stage forecasting or machine learning models."
+  },
+  {
+    "word": "Variance",
+    "details": "Variance shows how data points differ from the mean. Businesses monitor it to understand fluctuations in revenue, costs, or performance metrics."
+  },
+  {
+    "word": "Z-score",
+    "details": "A z-score shows how far a value is from the mean in standard deviations. It's used in quality control, outlier detection, and performance benchmarking."
+  },
+
+  {
+    "word": "Clustering",
+    "details": "Clustering is an unsupervised learning technique that groups similar data points together. In business, it's used for customer segmentation, identifying behavioral patterns, and organizing product categories."
+  },
+  {
+    "word": "Data Cleaning",
+    "details": "Data cleaning involves detecting and correcting errors or inconsistencies in datasets. It's critical in business analytics to ensure accurate insights from CRM systems, financial data, or marketing logs."
+  },
+  {
+    "word": "Data Pipeline",
+    "details": "A data pipeline is a set of processes that move and transform data from source to destination. Businesses use pipelines to automate the flow of data from sales systems to dashboards or databases."
+  },
+  {
+    "word": "Deep Learning",
+    "details": "Deep learning is a type of machine learning based on neural networks with many layers. It's used in image recognition, speech analysis, and personalized product recommendations in e-commerce."
+  },
+  {
+    "word": "Dimensionality Reduction",
+    "details": "Dimensionality reduction simplifies datasets by reducing the number of input variables. Businesses apply it to speed up computations and improve the interpretability of large customer or product datasets."
+  },
+  {
+    "word": "ETL (Extract, Transform, Load)",
+    "details": "ETL is a data integration process that extracts data from sources, transforms it, and loads it into a data warehouse. It's used in business intelligence to prepare data for reporting and analysis."
+  },
+  {
+    "word": "Feature Engineering",
+    "details": "Feature engineering creates new input features from raw data to improve model performance. Businesses use it to craft relevant predictors for churn modeling, credit scoring, or fraud detection."
+  },
+  {
+    "word": "Imbalanced Data",
+    "details": "Imbalanced data occurs when classes in a dataset are not represented equally. In business applications like fraud detection, special techniques are needed to handle this skewed data properly."
+  },
+  {
+    "word": "Natural Language Processing (NLP)",
+    "details": "NLP allows machines to understand and interpret human language. It's used in business for sentiment analysis, chatbot development, and extracting insights from customer feedback."
+  },
+  {
+    "word": "Supervised Learning",
+    "details": "Supervised learning uses labeled data to train models that predict outcomes. In business, it's applied in forecasting sales, detecting spam, and classifying customer reviews."
+  },
+  {
+    "word": "A/B Testing",
+    "details": "A/B testing is a controlled experiment comparing two versions (A and B) to determine which performs better. Businesses use it to optimize marketing emails, website designs, or product features."
+  },
+  {
+    "word": "Bias-Variance Tradeoff",
+    "details": "The bias-variance tradeoff refers to the balance between underfitting and overfitting a model. In business, it's crucial when building predictive models for customer behavior or risk analysis to avoid inaccurate results."
+  },
+  {
+    "word": "Bootstrapping",
+    "details": "Bootstrapping is a resampling technique used to estimate statistics on a dataset by sampling with replacement. It's applied in business for assessing model reliability and simulating financial outcomes."
+  },
+  {
+    "word": "Cross-Validation",
+    "details": "Cross-validation is a technique for evaluating model performance by training and testing on different data subsets. Businesses use it to ensure the robustness of predictive models before deployment."
+  },
+  {
+    "word": "Data Lake",
+    "details": "A data lake is a centralized repository that stores structured and unstructured data at scale. Organizations use it to store raw logs, social media data, and IoT streams for later analysis."
+  },
+  {
+    "word": "Data Wrangling",
+    "details": "Data wrangling is the process of cleaning and transforming raw data into a usable format. It's a key step for analysts preparing business dashboards or integrating multiple data sources."
+  },
+  {
+    "word": "Ensemble Learning",
+    "details": "Ensemble learning combines multiple models to produce more accurate predictions than any individual model. In business, it's widely used in recommendation systems, risk assessments, and forecasting tools."
+  },
+  {
+    "word": "Exploratory Data Analysis (EDA)",
+    "details": "EDA is the process of visually and statistically summarizing data to uncover patterns. Businesses use EDA to inform strategic decisions and generate hypotheses before modeling."
+  },
+  {
+    "word": "Hyperparameter Tuning",
+    "details": "Hyperparameter tuning is the process of optimizing model settings that are not learned from data. Businesses perform this to improve performance in models like churn prediction or price optimization."
+  },
+  {
+    "word": "Outlier",
+    "details": "An outlier is a data point that significantly differs from others in a dataset. Identifying outliers is important in business to detect fraud, data entry errors, or unusual customer behavior."
+  },
+  {
+    "word": "Decorator",
+    "details": "A decorator is a function that modifies the behavior of another function or method. In business software development, decorators are often used for logging, access control, or performance monitoring."
+  },
+  {
+    "word": "Dictionary",
+    "details": "A dictionary is a built-in Python data structure that stores key-value pairs. Businesses use dictionaries for fast lookups, configuration management, or representing structured records like customer profiles."
+  },
+  {
+    "word": "Exception Handling",
+    "details": "Exception handling is the process of catching and responding to errors during program execution using try-except blocks. It's crucial in business applications to ensure systems continue running smoothly even when issues arise."
+  },
+  {
+    "word": "Generator",
+    "details": "A generator is a special function that yields values one at a time, allowing for efficient iteration over large data sets. Businesses use generators to process streaming data or handle large files with limited memory."
+  },
+  {
+    "word": "List Comprehension",
+    "details": "List comprehension is a concise way to create lists using a single line of code. It's widely used in business data processing scripts to transform data quickly and cleanly."
+  },
+  {
+    "word": "Module",
+    "details": "A module is a file containing Python code (functions, classes, variables) that can be imported and reused. In business environments, modules support code reuse and maintainability in large-scale projects."
+  },
+  {
+    "word": "Object-Oriented Programming (OOP)",
+    "details": "OOP is a programming paradigm based on the concept of objects and classes. In business applications, OOP helps model real-world entities like customers or orders and supports scalable software design."
+  },
+  {
+    "word": "Pandas",
+    "details": "Pandas is a Python library for data manipulation and analysis, providing powerful DataFrame and Series objects. It's essential in business analytics for cleaning, transforming, and analyzing tabular data efficiently."
+  },
+  {
+    "word": "Virtual Environment",
+    "details": "A virtual environment is an isolated Python environment used to manage project dependencies. In business, virtual environments help avoid version conflicts between projects and ensure consistent deployments."
+  },
+  {
+    "word": "Data Governance",
+    "details": "Data governance is the framework for ensuring data quality, integrity, security, and compliance within an organization. Businesses use it to establish clear rules and responsibilities for data handling and usage."
+  },
+  {
+    "word": "Data Integrity",
+    "details": "Data integrity refers to the accuracy, consistency, and reliability of data throughout its lifecycle. In business, it’s critical for trustworthy reporting, regulatory compliance, and data-driven decisions."
+  },
+  {
+    "word": "Data Lakehouse",
+    "details": "A data lakehouse combines the benefits of data lakes and data warehouses to support both structured and unstructured data. Companies use it to streamline analytics, machine learning, and data storage in a unified platform."
+  },
+  {
+    "word": "Data Lineage",
+    "details": "Data lineage traces the flow of data from its origin through various systems and transformations. It's used in business to track data sources, improve transparency, and support audits and compliance."
+  },
+  {
+    "word": "Data Management",
+    "details": "Data management involves the collection, storage, organization, and maintenance of data. Businesses rely on effective data management to ensure data is accessible, secure, and fit for decision-making."
+  },
+  {
+    "word": "Data Mart",
+    "details": "A data mart is a focused, subject-specific subset of a data warehouse. Businesses use data marts to provide departments like marketing or finance with streamlined access to relevant data."
+  },
+  {
+    "word": "Data Mining",
+    "details": "Data mining is the process of discovering patterns, trends, and insights from large datasets. In business, it's used to uncover customer behavior, detect fraud, or optimize operations."
+  },
+  {
+    "word": "Data Normalization",
+    "details": "Data normalization is the process of organizing data to reduce redundancy and improve consistency. Businesses apply it when integrating datasets from multiple sources to ensure consistency and accuracy."
+  },
+  {
+    "word": "Data Stewardship",
+    "details": "Data stewardship refers to the roles and responsibilities for managing and overseeing data assets. In business, data stewards ensure that data is high-quality, well-documented, and properly maintained."
+  },
+  {
+    "word": "Metadata",
+    "details": "Metadata is data that describes other data, such as source, format, or update time. Businesses use metadata to manage data catalogs, improve searchability, and facilitate regulatory compliance."
+  },
+  {
+    "word": "Frontend",
+    "details": "The frontend is the visual part of a web app that users interact with. In business, it's key to user experience and customer engagement."
+  },
+  {
+    "word": "Backend",
+    "details": "The backend handles server-side logic, database interactions, and APIs. Businesses rely on robust backends for performance, data processing, and secure operations."
+  },
+  {
+    "word": "API",
+    "details": "An API (Application Programming Interface) enables different software systems to communicate. Businesses use APIs to integrate tools, enable automation, and share data across platforms."
+  },
+  {
+    "word": "Deployment",
+    "details": "Deployment is the process of launching a web app to a live server. It's essential in business to ensure new features and updates reach users efficiently."
+  },
+  {
+    "word": "Authentication",
+    "details": "Authentication verifies a user’s identity before allowing access to a web app. It's a critical layer of security in applications handling sensitive business data."
+  },
+  {
+    "word": "MVP",
+    "details": "A Minimum Viable Product (MVP) is a simplified version of a product used to test ideas quickly. Startups use MVPs to validate market demand with minimal resources."
+  },
+  {
+    "word": "Pivot",
+    "details": "A pivot is a strategic change in direction based on feedback or market conditions. Startups pivot to adapt to user needs or improve product-market fit."
+  },
+  {
+    "word": "Runway",
+    "details": "Runway refers to how long a startup can operate before it runs out of money. It helps founders manage cash flow and prioritize key initiatives."
+  },
+  {
+    "word": "Angel Investor",
+    "details": "An angel investor is an individual who provides early-stage capital to startups in exchange for equity. They're vital for businesses needing funding before raising larger rounds."
+  },
+  {
+    "word": "Scalability",
+    "details": "Scalability is the ability of a business or system to handle increased demand without sacrificing performance. It's a core goal for tech-driven startups looking to grow fast."
+  },
+  {
+    "word": "Cognitive Bias",
+    "details": "Cognitive biases are systematic patterns of deviation from rationality in judgment. Understanding them helps businesses design better user interfaces and marketing strategies."
+  },
+  {
+    "word": "Behavioral Economics",
+    "details": "Behavioral economics studies the effects of psychological factors on economic decisions. Businesses apply it in pricing, advertising, and product design to influence behavior."
+  },
+  {
+    "word": "Motivation",
+    "details": "Motivation drives people to take action toward goals. In business, it’s central to employee engagement, customer loyalty, and product adoption."
+  },
+  {
+    "word": "Heuristic",
+    "details": "A heuristic is a mental shortcut used for decision-making. Businesses use heuristic principles in design and usability testing to simplify user journeys."
+  },
+  {
+    "word": "Personality Trait",
+    "details": "Personality traits describe consistent behavior patterns in individuals. Companies use personality profiling in hiring, team building, and customer segmentation."
+  },
+  {
+    "word": "Neural Network",
+    "details": "A neural network is a model inspired by the human brain used in deep learning. It powers business applications like image recognition and personalized recommendations."
+  },
+  {
+    "word": "Reinforcement Learning",
+    "details": "Reinforcement learning is a type of machine learning where agents learn actions based on rewards. Businesses use it for dynamic pricing, robotics, and real-time decision systems."
+  },
+  {
+    "word": "Computer Vision",
+    "details": "Computer vision enables machines to interpret visual information from the world. Businesses apply it in quality control, facial recognition, and augmented reality."
+  },
+  {
+    "word": "Generative AI",
+    "details": "Generative AI creates new content—text, images, or code—using machine learning models. It’s transforming business in content marketing, product design, and software development."
+  },
+  {
+    "word": "Histogram",
+    "details": "A histogram is a bar chart representing the distribution of numerical data. Businesses use it to understand patterns like customer age distribution or sales volume."
+  },
+  {
+    "word": "Heatmap",
+    "details": "A heatmap uses color gradients to represent values across a matrix. It's used in business dashboards to spot trends and performance metrics quickly."
+  },
+  {
+    "word": "Scatter Plot",
+    "details": "A scatter plot shows the relationship between two variables using points on a graph. It’s useful in business to detect correlations, such as price vs. sales volume."
+  },
+  {
+    "word": "Dashboard",
+    "details": "A dashboard is a visual interface that displays key metrics and data summaries. Businesses rely on dashboards for monitoring performance and making real-time decisions."
+  },
+  {
+    "word": "Time Series Chart",
+    "details": "A time series chart displays data points over time, often to track trends. It’s used in business to analyze sales, traffic, or stock performance over time."
+  },
+  {
+    "word": "Data-Driven",
+    "details": "Being data-driven means making decisions backed by data analysis and evidence. It's a common goal in modern organizations striving for objective decision-making."
+  },
+  {
+    "word": "Single Source of Truth (SSOT)",
+    "details": "SSOT refers to having one centralized data repository used across teams. It helps businesses align reporting and eliminate data inconsistencies."
+  },
+  {
+    "word": "Real-Time Analytics",
+    "details": "Real-time analytics allows data to be processed and acted upon immediately. Businesses use it in fraud detection, personalization, and logistics monitoring."
+  },
+  {
+    "word": "Data Democratization",
+    "details": "Data democratization means giving more people in an organization access to data tools and insights. It empowers teams to make informed decisions without relying solely on analysts."
+  },
+  {
+    "word": "Big Data",
+    "details": "Big data refers to extremely large and complex datasets that traditional tools can't handle. Businesses use big data to analyze trends, optimize operations, and predict future behavior."
+  },
+  {
+    "word": "Risk",
+    "details": "Michael Lewis explores how institutions and individuals manage risk, notably in finance (e.g., *The Big Short*). Businesses must assess and mitigate risk in decisions from investment to product launches."
+  },
+  {
+    "word": "Inefficiency",
+    "details": "In *Moneyball* and *The Big Short*, Lewis shows how markets and systems often fail to be rational. Spotting inefficiencies can give businesses a competitive edge through data or innovation."
+  },
+  {
+    "word": "Disruption",
+    "details": "Lewis highlights how underdogs disrupt traditional systems (e.g., Billy Beane in baseball). In business, disruption refers to breaking into a market with a radically different and more efficient model."
+  },
+  {
+    "word": "Information Asymmetry",
+    "details": "A key theme in his work, where one party knows more than another (*Flash Boys*). Businesses must manage these gaps in negotiations, contracts, and market positioning."
+  },
+  {
+    "word": "Behavioral Bias",
+    "details": "Explored indirectly through characters who defy or fall prey to cognitive biases. Business leaders benefit from recognizing these patterns in decision-making and forecasting."
+  },
+  { "word": "Thin-Slicing",
+    "details": "From *Blink*, it's the idea of making quick judgments based on limited information. Useful in business for understanding snap decisions in hiring or product feedback."
+  },
+  {
+    "word": "Cultural Legacy",
+    "details": "How deeply rooted cultural patterns affect behavior. In international business, understanding cultural legacy helps navigate global markets and teams."
+  },
+  {
+    "word": "10,000-Hour Rule",
+    "details": "Gladwell popularized the idea that mastery requires roughly 10,000 hours of practice. It’s used in business to frame discussions on expertise, training, and talent development."
+  },
+  {
+    "word": "Prospect Theory",
+    "details": "Explains how people value gains and losses differently. It impacts business decisions like pricing, marketing strategies, and negotiation tactics."
+  },
+  {
+    "word": "Loss Aversion",
+    "details": "People fear losses more than they value gains. Businesses apply this in framing offers (e.g., 'Don't miss out!') and understanding customer retention."
+  },
+  {
+    "word": "Anchoring",
+    "details": "The tendency to rely too heavily on the first piece of information given. In business, anchoring affects negotiations, pricing, and user expectations."
+  },
+  {
+    "word": "Framing Effect",
+    "details": "The way choices are presented affects decisions. Businesses use framing in marketing, sales, and policy design to guide user behavior."
+  },
+  {
+    "word": "Availability Bias",
+    "details": "People overestimate the importance of information that comes easily to mind. In business, this affects risk assessment, marketing impact, and brand recall."
+  },
+  {
+    "word": "Representativeness",
+    "details": "A heuristic where people judge likelihood based on similarity to a prototype. Businesses must be cautious using stereotypes in segmentation or hiring."
+  },
+  {
+    "word": "Base Rate Fallacy",
+    "details": "Ignoring general statistical information in favor of specific anecdotes. Businesses fall into this trap when relying too much on one case study or client story."
+  },
+  {
+    "word": "Widgets",
+    "details": "Widgets are small, interactive components in dashboards that display data or allow user interactions (e.g., graphs, tables, sliders). In business, they are used to present key metrics and insights quickly to decision-makers."
+  },
+  {
+    "word": "Data Visualization",
+    "details": "The graphical representation of data, such as charts or graphs, used to simplify complex datasets. Dashboards rely heavily on visualization for business stakeholders to interpret and act on data."
+  },
+  {
+    "word": "Interactivity",
+    "details": "Interactivity allows users to engage with data by filtering, sorting, or drilling down. Dashboards often incorporate interactive elements to give users control over what data they see and analyze."
+  },
+  {
+    "word": "Real-Time Data",
+    "details": "Real-time data refers to continuously updated data, such as live stock prices or server performance metrics. Dashboards use real-time data to provide up-to-the-minute insights for businesses."
+  },
+  {
+    "word": "Data Structure",
+    "details": "A data structure is a way of organizing data for efficient access and modification. Businesses use data structures in their systems to manage large volumes of data efficiently."
+  },
+  {
+    "word": "Complexity",
+    "details": "In computer science, complexity refers to the resources needed to execute an algorithm, such as time and space. Understanding complexity helps businesses optimize software for better performance."
+  },
+  {
+    "word": "Concurrency",
+    "details": "Concurrency is the ability of a system to perform multiple tasks simultaneously. In software development, concurrency is used to improve performance, particularly in large-scale systems or high-volume businesses."
+  },
+  {
+    "word": "Recursion",
+    "details": "Recursion is a method where the solution to a problem depends on solutions to smaller instances of the same problem. It’s used in algorithms for tasks like data sorting and searching in business applications."
+  },
+  {
+    "word": "Runtime",
+    "details": "Runtime refers to the period when a program is executing. In a business context, understanding runtime is critical for performance optimization and ensuring that software solutions meet operational demands."
+  },
+  {
+    "word": "Runtime Environment",
+    "details": "A runtime environment is the hardware and software infrastructure that supports the execution of a program. Businesses need to understand their runtime environments to optimize software deployment and compatibility."
+  },
+  {
+    "word": "Runtime Error",
+    "details": "A runtime error occurs when a program is running, typically due to invalid operations or unexpected conditions. These errors can impact business operations, leading to system downtimes and customer dissatisfaction."
+  },
+  {
+    "word": "Execution Time",
+    "details": "Execution time is the time it takes for a program to run to completion. For businesses, optimizing execution time improves efficiency, user experience, and reduces operational costs in production environments."
+  },
+  {
+    "word": "Interpreter",
+    "details": "An interpreter is a program that directly executes instructions written in a programming language, without compiling it into machine language first. Businesses often use interpreted languages for rapid development of web apps and services."
+  },
+  {
+    "word": "Attribution Bias",
+    "details": "Attribution bias is when people attribute successes to their own actions and failures to external factors. In business, this can affect employee performance evaluations, team dynamics, and leadership decisions."
+  },
+  {
+    "word": "Hindsight Bias",
+    "details": "Hindsight bias is the tendency to see events as having been predictable after they have already occurred. In business, this can distort post-mortem analysis of failures, leading to misguided future decisions."
+  },     
+  {
+    "word": "Model Bias",
+    "details": "Model bias refers to the systematic error introduced by a model due to its assumptions, simplifications, or limitations. In business, model bias can lead to inaccurate predictions or recommendations that could affect decision-making."
+  },
+  {
+    "word": "Sampling Bias",
+    "details": "Sampling bias occurs when the data used to train a model is not representative of the entire population. In business, this can lead to inaccurate predictions and decisions that are not generalizable to the broader market."
+  },
+  {
+    "word": "Algorithmic Bias",
+    "details": "Algorithmic bias happens when a machine learning algorithm produces results that are systematically prejudiced due to biased training data or design choices. This can lead to unfair outcomes, particularly in hiring, credit scoring, and other business applications."
+  },
+  {
+    "word": "Selection Bias",
+    "details": "Selection bias occurs when the sample of data used to train a model is not randomly chosen, leading to non-representative results. In business, this can skew customer insights, leading to flawed targeting and strategies."
+  },  
+  {
+    "word": "Flask",
+    "details": "Flask is a lightweight web framework for Python that provides tools and libraries to build web applications. It is often used for smaller applications or when flexibility and simplicity are required in a project."
+  },
+  {
+    "word": "Django",
+    "details": "Django is a high-level web framework for Python that encourages rapid development and clean, pragmatic design. It comes with built-in features like an ORM, admin interface, and security protection, making it suitable for larger, complex projects."
+  },
+  {
+    "word": "Jinja2",
+    "details": "Jinja2 is a templating engine for Python, and it is used by both Flask and Django to generate dynamic HTML pages. In web development, it allows developers to embed Python-like expressions inside HTML for rendering data."
+  },
+  {
+    "word": "ORM (Object-Relational Mapping)",
+    "details": "ORM is a technique used by frameworks like Django to map database tables to Python objects. It allows developers to interact with databases using Python code, without having to write raw SQL queries."
+  },
+  {
+    "word": "Flask-SQLAlchemy",
+    "details": "Flask-SQLAlchemy is an extension for Flask that simplifies working with SQLAlchemy, a popular ORM. It allows developers to easily integrate relational databases into Flask applications for storing and retrieving data."
+  },
+  {
+    "word": "Django REST Framework (DRF)",
+    "details": "Django REST Framework (DRF) is a powerful toolkit for building Web APIs in Django. It provides tools for serialization, authentication, and viewsets, making it easier to build and maintain RESTful services in Django."
+  },
+  {
+    "word": "Views",
+    "details": "In both Flask and Django, views are functions or classes that handle HTTP requests and return HTTP responses. Views in Django are typically mapped to URL patterns, and in Flask, they are functions that are mapped via decorators."
+  },
+  {
+    "word": "URL Routing",
+    "details": "URL routing is the process of mapping URLs to specific views or functions. Flask and Django both provide URL routing mechanisms to handle incoming requests based on the URL structure."
+  },
+  {
+    "word": "Middleware",
+    "details": "Middleware in Flask and Django refers to functions or classes that are processed during the request/response cycle. They are used for tasks like authentication, logging, and session management before or after the view is executed."
+  }  
+  
+]

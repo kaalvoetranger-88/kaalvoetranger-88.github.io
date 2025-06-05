@@ -1,0 +1,207 @@
+
+[
+  {
+    "index": 1,
+    "date": "2025-04-02",
+    "title": "Portfolio Website Kickoff",
+    "details": "Created Conda Environment, set up Flask, initialized Git repo, planned website sections.",
+    "duration": "3 hours"
+  },
+  {
+    "index": 2,
+    "date": "2025-04-02",
+    "title": "Basic Routing & Templates",
+    "details": "Created Flask routes and Jinja template. Did Navbar section and created requirements.txt as well as testing app.py and pushing to Origin ",
+    "duration": "2 hours"    
+  },
+  {
+    "index": 1, 
+    "date": "2025-04-03",
+    "title": "Not the Start I wanted",
+    "details": "Spent an hour troubleshooting why my css colors weren't updating. Figured out I had darkmode on and turned it off. Centered some divs for confidence building after that",
+    "duration": "2 hours"    
+  },
+  {
+    "index": 2, 
+    "date": "2025-04-03",
+    "title": "Collecting Assets, setting up layout",
+    "details": "downloaded company logos. Tried 3 JavaScript/CSS methods before deciding on final animations and transitions for sections.",
+    "duration": "3 hours"    
+  },    
+  {
+    "index": 1,
+    "date": "2025-04-04",
+    "title": "Working on Experience Carousel and card",
+    "details": "Built carousel for company logos. Built job card templates.",
+    "duration": "4 hours"    
+  },  
+  {
+    "index": 1, 
+    "date": "2025-04-04",
+    "title": "1 Section Down, 6 to go!",
+    "details": "Finished job cards. Tweaked and fixed some animation stuff. Added contact stuff to site footer",
+    "duration": "3 hours"    
+  },  
+  {
+    "index": 2,
+    "date": "2025-04-06",
+    "title": "Education section",
+    "details": "Re-used the same cards from the experience section but made them into accordions.",
+    "duration": "8 hours"    
+  },  
+  {
+    "index": 1,  
+    "date": "2025-04-07",
+    "title": "Skills section",
+    "details": "Use the accordion elements I made yesterday to make 4 skills containers. Hmmm, what skills are important is an important question but I want to categorize these correctly. Made my brain into a png.",
+    "duration": "5 hours"    
+  },  
+  {
+    "index": 1,  
+    "date": "2025-04-10",
+    "title": "Skills section... finished",
+    "details": "Took a long, deep look into industry specific skills and what I best have. Switched around accordions, added Skill-Pills.",
+    "duration": "3 hours"    
+  },  
+  {
+    "index": 2,  
+    "date": "2025-04-10",
+    "title": "Made the timeline section",
+    "details": "Made a simple timeline that shows site progress.",
+    "duration": "2 hours"    
+  },  
+  {
+    "index": 1,  
+    "date": "2025-04-14",
+    "title": "Plan out site analytics",
+    "details": "Reading up and comparing IP2location, GeoIP, Echarts and planning what needs to be done for this side-quest.",
+    "duration": "2 hours"    
+  },  
+  {
+    "index": 2,  
+    "date": "2025-04-15",
+    "title": "Refactoring",
+    "details": "Refactored single html page into multiple section tempates to make things a bit easier to seperate.",
+    "duration": "1 hour"    
+  },  
+  {
+    "index": 1,  
+    "date": "2025-04-17",
+    "title": "Site analytics and database",
+    "details": "Set up SQLAlchemy and test/integrate viewer data",
+    "duration": "2 hours"    
+  },
+    {
+      "index": 1,  
+      "date": "2025-04-22",
+      "title": "Site analytics and database continued",
+      "details": "Spent full day on this task but struggling with mapping. Dropping this idea for now so I can get back on track.",
+      "duration": "7 hours"    
+    },  
+    {
+      "index": 2,  
+      "date": "2025-04-24",
+      "title": "Lexicon section",
+      "details": "Set up Lexicon Section with javascript and json",
+      "duration": "3 hours"    
+    },  
+    {
+      "index": 2,  
+      "date": "2025-04-25",
+      "title": "Populate lexicon",
+      "details": "Put about 100 important words into my lexicon",
+      "duration": "2 hours"    
+    },  
+    {
+      "index": 1,  
+      "date": "2025-04-29",
+      "title": "Tech Stack section",
+      "details": "Set up tech stack section. As this is one of the last sections, I'm just using elements I've created from previous sections. No need to reinvent the wheel.",
+      "duration": "2 hours"    
+    },                                                           
+    {
+      "index": 1,  
+      "date": "2025-04-29",
+      "title": "Finish Tech Stack Section",
+      "details": "Summarised stack into 9 cards. Got logo icons and added those",
+      "duration": "3 hours"    
+    },                                                           
+    {
+      "index": 2,  
+      "date": "2025-04-30",
+      "title": "What are my interests?",
+      "details": "Broke down my interests into 4 categories. It's going to be similar to the skills accordion.",
+      "duration": "3 hours"    
+    },                                                           
+    {
+      "index": 1,  
+      "date": "2025-04-30",
+      "title": "Clean Up Time!",
+      "details": "Went through all 7 sections to see that everything is working. Fixed Nav bar title & tool-tips. Also redid IP2loc so that it just does an API call instead of needing to store the bins locally.",
+      "duration": "2 hours"    
+    },                                                           
+    {
+      "index": 2,  
+      "date": "2025-05-01",
+      "title": "Colors and proof reading",
+      "details": "Weather outside today is cold and rainy... perfect weather for practical color science",
+      "duration": "4 hours"    
+    },                                                           
+    {
+      "index": 1,  
+      "date": "2025-05-01",
+      "title": "Freeze dependencies and deploy!",
+      "details": "Following cold and rainy theme, I'm freezing my deeps and putting this up!",
+      "duration": "1 hour"    
+    },                                                           
+    {
+      "index": 1,  
+      "date": "2025-05-01",
+      "title": "Deploy!",
+      "details": "Fighting to get website up. It's up! Definitely need to fix lots of stuff.",
+      "duration": "4 hours"    
+    },                                                           
+    {
+      "index": 2,  
+      "date": "2025-05-07",
+      "title": "Deployment Feedback and fixes planning.",
+      "details": "Majority of viewers were on mobile and no mobile view. Research mobile UI tips and fixing. Get mobile friendly view up by weekend (maybe 5 hours work?)",
+      "duration": "3 hours"    
+    },                                                           
+    {
+      "index": 1,  
+      "date": "2025-05-08",
+      "title": "Desktop First and Responsive Design",
+      "details": "I have 1,600 lines of CSS rules that I need to refactor and simplify, and while doing this I'm also going to work on the mobile view.",
+      "duration": "4 hours"    
+    },                                                           
+    {
+      "index": 1,  
+      "date": "2025-05-09",
+      "title": "Desktop First and Responsive Design Continued",
+      "details": "Refactored around 1,000 lines of CSS and can probably finish this next time I work on it.",
+      "duration": "4 hours"    
+    },                                                           
+    {
+      "index": 1,  
+      "date": "2025-05-12",
+      "title": "Responsive Design Continued",
+      "details": "A lot of manually fixing the CSS line by line and adding to a MASSIVE media query at the bottom of the script.",
+      "duration": "4 hours"    
+    },                                                           
+    {
+      "index": 2,  
+      "date": "2025-05-12",
+      "title": "Finish CSS, Merge, Redeploy!",
+      "details": "Finally finished CSS. Push to Github. Redeploy. Mobile Friendly DONE",
+      "duration": "4 hours"    
+    },                                                           
+    {
+      "index": 2,  
+      "date": "2025-05-17",
+      "title": "502 Bad Gateway: Production Server Down",
+      "details": "Well, umm.... The GOOD news is that I've been getting lots of traffic to my side. The BAD news is that I've run out of free hosting credits. This entire project so far has cost me $0, and my budget to fix this is still $0. ",
+      "duration": "4 hours"    
+    }                                             
+]
+
